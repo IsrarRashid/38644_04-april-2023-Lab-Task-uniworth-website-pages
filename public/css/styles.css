@@ -1,0 +1,67 @@
+:root{
+  --color-primary:#f8ece4;
+  --color-secondary:#f6f6f6;
+  --color-black:black;
+}
+.bg-light-brown{
+  background: var(--color-primary) !important;
+}
+.parallax{
+  background-image: url(../images/fawad-khan.jpg);
+  min-height: 50vh;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.row9__image{
+  background-image: url(../images/tshirt.jpg);
+  min-height: 90vh;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.fix-menu{
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  z-index: 1;
+}
+
+.button-category{
+  width: 5% !important;
+  text-align: center !important;
+}
+
+.slider-content{
+  width: 90%;
+}
+
+.menu1__col3--img{
+  margin-top: -500px;
+}
+
+.aboutUs--bg{
+  background: var(--color-secondary);
+}
+.bg-black{
+  background: var(--color-black);
+}
+
+
+
+
+
+
+
+.helpButton{
+  background: #fff; 
+  color: black;
+  border-radius: 0;
+}
+.helpButton:hover{
+  background: blue;
+  border-radius: 0;
+  border: solid blue;
+  color: white;
+}

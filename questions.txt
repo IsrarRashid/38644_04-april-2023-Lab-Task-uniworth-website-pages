@@ -1,0 +1,9 @@
+react page price bar rupees missing, script not working
+
+carousal remove space around
+carousal dots add
+
+uniworthblack page div content center not working?
+
+
+bootstrap margin and padding left and right not working only whole m-3 and p-3 works
